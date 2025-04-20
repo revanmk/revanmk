@@ -1,9 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mk.Revan</h1>
 <h3 align="center">🚀 Developer | Machine Learning Enthusiast | DSA | Tech Addict</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Code.+Debug.+Learn.+Repeat.;ML+%7C+Full+Stack+%7C+DSA+%7C+JS+Addict;Let's+build+something+awesome!+💻" alt="Typing SVG" />
-</p>
 
 ---
 
