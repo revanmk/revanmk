@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mk.Revan</h1>
-<h3 align="center">🚀 Developer | Machine Learning Explorer | DSA Ninja | Tech Addict</h3>
+<h3 align="center">🚀 Developer | Machine Learning Enthusiast | DSA | Tech Addict</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Code.+Debug.+Learn.+Repeat.;ML+%7C+Full+Stack+%7C+DSA+%7C+JS+Addict;Let's+build+something+awesome!+💻" alt="Typing SVG" />
@@ -9,12 +9,12 @@
 
 ### 🔍 About Me
 
-- 🎓 B.Tech CSE (Data Science), CGPA: 9.29
-- 💼 Currently working on **JavaScript mastery & ML-based projects**
-- 🧠 Preparing for interviews: DSA + Core Subjects + System Design
-- 🛠 Built: **Sign Language Detection using OpenCV, MediaPipe, TensorFlow**
-- 🧑‍💻 Passionate about building things that make an impact
-- 🧩 Fun Fact: I once built a HackerBot during a coding hackathon 😄
+- 🎓 **B.Tech CSE (Data Science)** | **CGPA**: 9.29
+- 💼 Currently working on **Advanced JavaScript & Machine Learning-based Projects**
+- 🧠 Preparing for **DSA, Core Subjects, & System Design Interviews**
+- 🛠 Recently built **Sign Language Detection** using **OpenCV**, **MediaPipe**, and **TensorFlow**
+- 🧑‍💻 Passionate about creating projects that make an impact
+- 🧩 Fun Fact: Built a **HackerBot** during a hackathon 😄
 
 ---
 
@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Tools/Frameworks**:  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -49,20 +49,21 @@
 
 ### 🔥 Currently Learning
 
-- Advanced JavaScript (DOM, Arrays, Closures)
-- React Hooks & Context API
-- ML Model Tuning (TensorFlow/Keras)
+- Advanced **JavaScript** (DOM Manipulation, Closures, Arrays)
+- **React**: Hooks, Context API, and Performance Optimization
+- **Machine Learning**: Model Tuning using **TensorFlow** & **Keras**
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Let's Connect!
 
 - GitHub: [revanmk](https://github.com/revanmk)
 - LeetCode: [revanmk](https://leetcode.com/u/revanmk/)
-- GFG: [revanmk](https://www.geeksforgeeks.org/user/revanmk/)
+- GeeksforGeeks: [revanmk](https://www.geeksforgeeks.org/user/revanmk/)
 - Resume: _Coming soon!_
 
 ---
+
 ### 💬 Quote I Live By
 
 > **"Nation first. Then your Guru, your Parents and finally your God! So, the nation should always come before yourselves."**  
